@@ -1,24 +1,65 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import { Routes, Route, Link } from "react-router-dom";
+import Home from "./Home";
+import Profile from "./Profile";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+
+      {/* ✅ Navbar */}
+      <nav
+        style={{
+          padding: "15px",
+          background: "#111",
+          display: "flex",
+          justifyContent: "space-between",
+        }}
+      >
+        <div>
+          <Link
+            to="/"
+            style={{
+              color: "#fff",
+              marginRight: "20px",
+              textDecoration: "none",
+              fontWeight: "bold",
+            }}
+          >
+            🚀 SkillPass AI
+          </Link>
+        </div>
+
+        <div>
+          <Link
+            to="/"
+            style={{
+              color: "#fff",
+              marginRight: "15px",
+              textDecoration: "none",
+            }}
+          >
+            Home
+          </Link>
+
+          {/* ✅ FIXED Analyze Link */}
+          <Link
+            to="/user/akankshad1712"
+            style={{
+              color: "#0f0",
+              textDecoration: "none",
+            }}
+          >
+            Analyze
+          </Link>
+        </div>
+      </nav>
+
+      {/* ✅ Routes */}
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/user/:username" element={<Profile />} />
+      </Routes>
     </div>
   );
 }
