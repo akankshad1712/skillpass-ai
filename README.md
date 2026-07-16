@@ -17,8 +17,7 @@ https://skillpass-ai.vercel.app
 - Profile Management
 - Responsive UI
 
-## 📸 Screenshots
-(Add screenshots here)
+
 
 ## 📦 Installation
 npm install  
