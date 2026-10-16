@@ -1,90 +1,58 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=SkillPass%20AI&fontSize=72&fontColor=ffffff&fontAlignY=40&desc=GitHub%20Intelligence%20%E2%80%A2%20AI%20Skill%20Analysis%20%E2%80%A2%20Smart%20Resume%20Generator&descAlignY=60&descSize=18&animation=twinkling" width="100%"/>
+<!-- ANIMATED HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:6366f1,50:a855f7,100:f43f5e&height=250&section=header&text=SkillPass%20AI&fontSize=80&fontColor=fff&fontAlignY=45&desc=Turn%20GitHub%20into%20your%20Developer%20Identity&descAlignY=65&descSize=20&animation=fadeIn" width="100%"/>
 
 <br/>
 
-![Version](https://img.shields.io/badge/version-0.1.0-blueviolet?style=for-the-badge&logo=semver&logoColor=white)
-![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-4.9-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-12-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![License](https://img.shields.io/badge/license-MIT-00D4AA?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
+<!-- TYPING ANIMATION -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=AI-Powered+GitHub+Skill+Analyzer+%F0%9F%A4%96;Smart+Resume+Generator+%F0%9F%93%84;Developer+Score+Engine+%E2%9A%A1;PDF+Export+in+One+Click+%F0%9F%8E%AF" alt="Typing SVG"/>
+
+<br/><br/>
+
+<!-- TECH BADGES -->
+![React](https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Router](https://img.shields.io/badge/React_Router_v7-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white)
+![jsPDF](https://img.shields.io/badge/jsPDF-FF0000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)
 
 <br/>
 
-![GitHub Stars](https://img.shields.io/github/stars/akankshad1712/skillpass-ai?style=social)
-![GitHub Forks](https://img.shields.io/github/forks/akankshad1712/skillpass-ai?style=social)
-![GitHub Issues](https://img.shields.io/github/issues/akankshad1712/skillpass-ai?color=red)
-![Last Commit](https://img.shields.io/github/last-commit/akankshad1712/skillpass-ai?color=brightgreen)
+<!-- REPO LIVE BADGES -->
+![Stars](https://img.shields.io/github/stars/akankshad1712/skillpass-ai?style=for-the-badge&logo=starship&color=f59e0b&labelColor=1a1a2e)
+![Forks](https://img.shields.io/github/forks/akankshad1712/skillpass-ai?style=for-the-badge&logo=git&color=6366f1&labelColor=1a1a2e)
+![Issues](https://img.shields.io/github/issues/akankshad1712/skillpass-ai?style=for-the-badge&logo=github&color=f43f5e&labelColor=1a1a2e)
+![Last Commit](https://img.shields.io/github/last-commit/akankshad1712/skillpass-ai?style=for-the-badge&logo=githubactions&color=22c55e&labelColor=1a1a2e)
+![License](https://img.shields.io/badge/MIT-License-00D4AA?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=1a1a2e)
 
-<br/>
+<br/><br/>
 
-> **SkillPass AI** turns any GitHub username into an intelligent developer profile —  
-> analyzing repositories, detecting skills, generating AI-driven feedback, and producing a polished PDF resume in seconds.
-
-<br/>
-
-[![🚀 Live Demo](https://img.shields.io/badge/%F0%9F%9A%80%20Live%20Demo-Visit%20Now-0f0?style=for-the-badge)](https://skillpass-ai.web.app)
-[![⭐ Star Repo](https://img.shields.io/badge/%E2%AD%90%20Star%20This%20Repo-Show%20Love-FFCA28?style=for-the-badge)](https://github.com/akankshad1712/skillpass-ai)
-[![🐛 Report Bug](https://img.shields.io/badge/%F0%9F%90%9B%20Report%20Bug-Open%20Issue-f43f5e?style=for-the-badge)](https://github.com/akankshad1712/skillpass-ai/issues)
+[![Live Demo](https://img.shields.io/badge/⚡_Live_Demo-Visit_Now-6366f1?style=for-the-badge)](https://skillpass-ai.web.app)
+[![Star This](https://img.shields.io/badge/⭐_Star_This_Repo-Support_Us-f59e0b?style=for-the-badge)](https://github.com/akankshad1712/skillpass-ai)
+[![Report Bug](https://img.shields.io/badge/🐛_Report_Bug-Open_Issue-f43f5e?style=for-the-badge)](https://github.com/akankshad1712/skillpass-ai/issues)
 
 </div>
 
 ---
-
-## 👩‍💻 Built By
 
 <div align="center">
 
-<a href="https://github.com/akankshad1712">
-  <img src="https://avatars.githubusercontent.com/akankshad1712" width="110" style="border-radius:50%;border:3px solid #a855f7;" alt="Akanksha Deshmukh"/>
-</a>
-
-<h3>Akanksha Deshmukh</h3>
-
-📍 Pune, India &nbsp;·&nbsp; 💼 Software Engineering &nbsp;·&nbsp; 🗂️ 26 Public Repos
-
-<br/>
-
-[![GitHub Follow](https://img.shields.io/github/followers/akankshad1712?label=Follow%20%40akankshad1712&style=for-the-badge&logo=github&color=181717)](https://github.com/akankshad1712)
-[![Profile Views](https://komarev.com/ghpvc/?username=akankshad1712&color=a855f7&style=for-the-badge&label=Profile+Views)](https://github.com/akankshad1712)
-
-<br/><br/>
-
-<!-- ── LIVE GITHUB STATS (auto-refresh from real account) ── -->
-
-<img src="https://github-readme-stats.vercel.app/api?username=akankshad1712&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=6366f1&text_color=c9d1d9&rank_icon=github" height="170"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akankshad1712&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&langs_count=8" height="170"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=akankshad1712&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=f43f5e&currStreakLabel=a855f7&sideNums=c9d1d9&sideLabels=6366f1" width="65%"/>
-
-<br/><br/>
-
-<!-- ── CONTRIBUTION ACTIVITY GRAPH ── -->
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=akankshad1712&bg_color=0d1117&color=a855f7&line=6366f1&point=f43f5e&area=true&hide_border=true" width="95%"/>
+## 🧠 What is SkillPass AI?
 
 </div>
 
----
-
-## 📚 Table of Contents
-
-| # | Section |
-|---|---------|
-| 1 | [✨ Features](#-features) |
-| 2 | [🖼️ Screenshots](#️-screenshots) |
-| 3 | [🏗️ Architecture](#️-architecture) |
-| 4 | [⚡ Quick Start](#-quick-start) |
-| 5 | [🔧 Configuration](#-configuration) |
-| 6 | [🚀 Deployment](#-deployment) |
-| 7 | [🛠️ Tech Stack](#️-tech-stack) |
-| 8 | [🗺️ Roadmap](#️-roadmap) |
-| 9 | [🤝 Contributing](#-contributing) |
-| 10 | [📄 License](#-license) |
+```
+  ┌─────────────────────────────────────────────────────────────────┐
+  │                                                                 │
+  │   Enter a GitHub username  →  SkillPass AI scans all repos     │
+  │   Detects skills + scores  →  Generates AI feedback            │
+  │   Builds a resume          →  Export as polished PDF           │
+  │                                                                 │
+  │   All in under 5 seconds. Zero setup. Just a username.         │
+  │                                                                 │
+  └─────────────────────────────────────────────────────────────────┘
+```
 
 ---
 
@@ -92,129 +60,80 @@
 
 <div align="center">
 
-| 🔍 Feature | 💬 Description |
-|---|---|
-| **GitHub Auto-Scan** | Enter any GitHub username → instantly fetch all public repos |
-| **AI Skill Detection** | Detects Java · Python · AI · Web · and more from repo metadata |
-| **Smart Scoring** | Weighted developer score from stars, forks & activity |
-| **AI Feedback Engine** | Personalized improvement suggestions tailored to your profile |
-| **Resume Generator** | Produces a professional, role-ready resume from GitHub data |
-| **PDF Export** | One-click download of your AI-crafted resume as a polished PDF |
-| **Firebase Backend** | Auth & Firestore for saved profiles and history |
-| **React Router v7** | Fast, seamless SPA navigation with dynamic routes |
+|  | Feature | What it does |
+|--|---------|-------------|
+| 🔍 | **GitHub Auto-Scan** | Fetches all public repos instantly via GitHub REST API |
+| 🧬 | **AI Skill Detection** | Detects Java · Python · AI · Web · TypeScript from repo data |
+| 🏆 | **Smart Score Engine** | Stars × 2 + Forks × 3, capped at 100 — your dev rank |
+| 💬 | **Feedback Engine** | Personalized AI tips to level up your skill profile |
+| 📝 | **Resume Generator** | Auto-builds a role-ready resume from your GitHub data |
+| 📄 | **PDF Export** | One-click download via jsPDF — clean, professional output |
+| 🔥 | **Firebase Backend** | Auth + Firestore for profile persistence |
+| ⚡ | **React Router v7** | Blazing fast SPA with dynamic `/user/:username` routes |
 
 </div>
 
 ---
 
-## 🖼️ Screenshots
-
-<div align="center">
-
-### 🏠 Home — Enter GitHub Username
+## 🏗️ Architecture & Data Flow
 
 ```
-┌──────────────────────────────────────────────────────────┐
-│   🚀 SkillPass AI                            Analyze →   │
-├──────────────────────────────────────────────────────────┤
-│                                                          │
-│             Analyze Your Developer Skills                │
-│                                                          │
-│         [ Enter GitHub username... ]  [ Analyze ]        │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════════════╗
+║                    SKILLPASS AI  PIPELINE                    ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  [ User Input ]  ──▶  GitHub REST API  ──▶  Repo Array      ║
+║                                                  │           ║
+║                          ┌───────────────────────┤           ║
+║                          ▼                       ▼           ║
+║                    Skill Analyzer          Score Engine      ║
+║                    (name matching)         (⭐×2 + 🍴×3)    ║
+║                          │                       │           ║
+║                          └──────────┬────────────┘           ║
+║                                     ▼                        ║
+║                              Feedback Engine                 ║
+║                          (AI-style suggestions)              ║
+║                                     │                        ║
+║                                     ▼                        ║
+║                            Resume Builder  ──▶  jsPDF        ║
+║                                                   │           ║
+║                                                   ▼           ║
+║                                          📥 username.pdf     ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 ```
 
-### 📊 Profile — AI-Powered Developer Dashboard
-
-```
-┌──────────────────────────────────────────────────────────┐
-│   akankshad1712's Profile 🚀                             │
-├──────────────────────────────────────────────────────────┤
-│   Skill Score: 87 / 100   ████████████░░░                │
-│                                                          │
-│   Skills          Feedback                               │
-│   ──────────      ─────────────────────────────          │
-│   Web    ★★★★     🌐 Strong Web Dev                      │
-│   Python ★★★      🐍 Good Python                         │
-│   AI     ★★       🤖 AI Promising                        │
-│   Java   ★        📚 Improve Java Skills                 │
-│                                                          │
-│   [ 📄 Download Resume as PDF ]                          │
-└──────────────────────────────────────────────────────────┘
-```
-
-</div>
-
----
-
-## 🏗️ Architecture
+**Project Structure:**
 
 ```
 skillpass-ai/
 ├── 📁 public/
-│   └── index.html              # App shell
+│   └── index.html
 ├── 📁 src/
-│   ├── App.tsx                 # Root layout + routing
-│   ├── Home.tsx                # Username input + trigger
-│   ├── Profile.tsx             # AI analysis + resume + PDF export
+│   ├── 🧭 App.tsx          →  Root layout + React Router
+│   ├── 🏠 Home.tsx         →  Username input & analysis trigger
+│   ├── 👤 Profile.tsx      →  AI dashboard + resume + PDF export
 │   └── 📁 firebase/
-│       └── config.ts           # Firebase auth + Firestore setup
+│       └── ⚙️  config.ts   →  Auth & Firestore setup
 ├── package.json
 └── tsconfig.json
-```
-
-**Data Flow:**
-
-```
-User Input (GitHub username)
-        │
-        ▼
-GitHub REST API  ──▶  /users/:username/repos
-        │
-        ▼
-Skill Analyzer   ──▶  Detect languages, count projects
-        │
-        ▼
-Score Engine     ──▶  Stars × 2 + Forks × 3  →  capped at 100
-        │
-        ▼
-Feedback Engine  ──▶  Personalized AI suggestions
-        │
-        ▼
-Resume Builder   ──▶  Structured professional resume
-        │
-        ▼
-PDF Export (jsPDF) ──▶  username_resume.pdf
 ```
 
 ---
 
 ## ⚡ Quick Start
 
-### Prerequisites
+### 1 · Clone
 
 ```bash
-node  >= 18.x
-npm   >= 9.x
-```
-
-### Clone & Install
-
-```bash
-# Clone the repository
 git clone https://github.com/akankshad1712/skillpass-ai.git
-
-# Navigate into the project
 cd skillpass-ai
-
-# Install dependencies
 npm install
 ```
 
-### Configure Firebase
+### 2 · Configure Firebase
 
-Open `src/firebase/config.ts` and replace the placeholders:
+Edit `src/firebase/config.ts`:
 
 ```ts
 const firebaseConfig = {
@@ -227,33 +146,21 @@ const firebaseConfig = {
 };
 ```
 
-> Get these from [Firebase Console](https://console.firebase.google.com/) → Project Settings → Your Apps.
+> 🔗 Get from [Firebase Console](https://console.firebase.google.com) → Project Settings → Your Apps
 
-### Run
+### 3 · Run
 
 ```bash
 npm start
-# Opens at http://localhost:3000
+# → http://localhost:3000
 ```
 
 ---
 
-## 🔧 Configuration
+## 🚀 Deploy
 
-| Variable | File | Description |
-|---|---|---|
-| `apiKey` | `firebase/config.ts` | Firebase project API key |
-| `projectId` | `firebase/config.ts` | Firebase project ID |
-| `authDomain` | `firebase/config.ts` | Firebase auth domain |
-| GitHub API | `Home.tsx` / `Profile.tsx` | Public — no token needed for public repos |
-
-> **Rate Limiting:** GitHub's unauthenticated API allows 60 req/hr. For production, add a GitHub PAT via `.env`.
-
----
-
-## 🚀 Deployment
-
-### Firebase Hosting
+<details>
+<summary><b>🔥 Firebase Hosting</b></summary>
 
 ```bash
 npm install -g firebase-tools
@@ -262,20 +169,25 @@ firebase init hosting
 npm run build
 firebase deploy
 ```
+</details>
 
-### Vercel
+<details>
+<summary><b>▲ Vercel</b></summary>
 
 ```bash
 npm install -g vercel
 vercel --prod
 ```
+</details>
 
-### Netlify
+<details>
+<summary><b>🟢 Netlify</b></summary>
 
 ```bash
 npm run build
-# Drag & drop the build/ folder at app.netlify.com/drop
+# Drop the build/ folder at app.netlify.com/drop
 ```
+</details>
 
 ---
 
@@ -283,15 +195,17 @@ npm run build
 
 <div align="center">
 
-| Layer | Technology |
-|---|---|
-| **Frontend** | React 19 · TypeScript 4.9 |
-| **Routing** | React Router DOM v7 |
-| **Backend / Auth** | Firebase v12 (Auth + Firestore) |
-| **PDF Generation** | jsPDF v4 |
-| **Data Source** | GitHub REST API v3 |
-| **Testing** | React Testing Library · Jest |
-| **Build Tool** | Create React App (react-scripts 5) |
+![Skills](https://skillicons.dev/icons?i=react,ts,firebase,js,html,css,git,github)
+
+| Layer | Tech |
+|-------|------|
+| UI Framework | React 19 + TypeScript 4.9 |
+| Routing | React Router DOM v7 |
+| Backend | Firebase v12 — Auth + Firestore |
+| PDF | jsPDF v4 |
+| Data | GitHub REST API v3 (public, no token needed) |
+| Build | Create React App · react-scripts 5 |
+| Tests | React Testing Library · Jest |
 
 </div>
 
@@ -299,39 +213,92 @@ npm run build
 
 ## 🗺️ Roadmap
 
-- [x] GitHub repo auto-fetch
-- [x] Skill analyzer (Java · Python · AI · Web)
-- [x] Weighted developer score
-- [x] AI feedback generation
-- [x] Resume builder
-- [x] PDF export
-- [ ] GitHub OAuth login
-- [ ] Real language stats via GitHub API
-- [ ] Shareable profile links
-- [ ] Dark / Light theme toggle
-- [ ] Contribution heatmap visualization
-- [ ] LinkedIn export integration
-- [ ] Multi-language resume templates
+```
+  2026 ──────────────────────────────────────────────────────────▶
+
+  ✅ GitHub repo auto-fetch
+  ✅ Skill analyzer  (Java · Python · AI · Web)
+  ✅ Weighted developer score
+  ✅ AI feedback generation
+  ✅ Resume builder
+  ✅ PDF export (jsPDF)
+
+  🔲 GitHub OAuth login
+  🔲 Real language stats via GitHub API
+  🔲 Shareable profile cards
+  🔲 Dark / Light theme toggle
+  🔲 Contribution heatmap
+  🔲 LinkedIn export
+  🔲 Multi-template resumes
+```
 
 ---
 
 ## 🤝 Contributing
 
 ```bash
-# Fork the repo, then clone your fork
+# 1. Fork → Clone
 git clone https://github.com/YOUR_USERNAME/skillpass-ai.git
 
-# Create a feature branch
-git checkout -b feature/your-feature-name
+# 2. Branch
+git checkout -b feat/your-feature
 
-# Commit your changes (follow Conventional Commits)
-git commit -m "feat: add your feature"
+# 3. Commit  (Conventional Commits)
+git commit -m "feat: your change"
 
-# Push and open a Pull Request
-git push origin feature/your-feature-name
+# 4. Push → PR
+git push origin feat/your-feature
 ```
 
-Please open an issue before starting large changes. All PRs are welcome!
+---
+
+## 👩‍💻 About the Author
+
+<div align="center">
+
+<a href="https://github.com/akankshad1712">
+  <img src="https://avatars.githubusercontent.com/u/146211849?v=4" width="120" style="border-radius:50%"/>
+</a>
+
+<h3>Akanksha Deshmukh</h3>
+<p>📍 Pune, India &nbsp;·&nbsp; 💼 Software Engineering &nbsp;·&nbsp; 🗂️ 26 Public Repos</p>
+
+[![GitHub Follow](https://img.shields.io/github/followers/akankshad1712?label=Follow%20%40akankshad1712&style=for-the-badge&logo=github&color=181717)](https://github.com/akankshad1712)
+[![Profile Views](https://komarev.com/ghpvc/?username=akankshad1712&color=a855f7&style=for-the-badge&label=Profile+Views)](https://github.com/akankshad1712)
+
+<br/><br/>
+
+<!-- LIVE GITHUB STATS — auto-refresh every 24h -->
+<img src="https://github-readme-stats.vercel.app/api?username=akankshad1712&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=6366f1&text_color=c9d1d9&include_all_commits=true&count_private=true&rank_icon=github" height="175"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akankshad1712&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&langs_count=8" height="175"/>
+
+<br/>
+
+<!-- STREAK COUNTER — live -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=akankshad1712&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=f43f5e&currStreakLabel=a855f7" width="60%"/>
+
+<br/>
+
+<!-- ACTIVITY GRAPH — live -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=akankshad1712&bg_color=0d1117&color=a855f7&line=6366f1&point=f43f5e&area=true&hide_border=true&custom_title=Contribution%20Activity" width="95%"/>
+
+<br/>
+
+<!-- PINNED REPO CARDS — auto-populated -->
+<a href="https://github.com/akankshad1712/skillpass-ai">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=akankshad1712&repo=skillpass-ai&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=6366f1&text_color=c9d1d9"/>
+</a>
+<a href="https://github.com/akankshad1712/ANVYRA">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=akankshad1712&repo=ANVYRA&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=6366f1&text_color=c9d1d9"/>
+</a>
+<a href="https://github.com/akankshad1712/Nexora-AI">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=akankshad1712&repo=Nexora-AI&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=6366f1&text_color=c9d1d9"/>
+</a>
+<a href="https://github.com/akankshad1712/ai-trip-planner-react">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=akankshad1712&repo=ai-trip-planner-react&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=6366f1&text_color=c9d1d9"/>
+</a>
+
+</div>
 
 ---
 
@@ -341,25 +308,21 @@ Please open an issue before starting large changes. All PRs are welcome!
 MIT License — Copyright © 2026 Akanksha Deshmukh
 
 Permission is hereby granted, free of charge, to any person obtaining
-a copy of this software and associated documentation files, to deal
-in the Software without restriction — including use, copy, modify,
-merge, publish, distribute, sublicense, and/or sell copies.
+a copy of this software and associated documentation files (the "Software"),
+to deal in the Software without restriction — including use, copy, modify,
+merge, publish, distribute, sublicense, and/or sell copies of the Software.
 ```
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=130&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:6366f1,50:a855f7,100:f43f5e&height=150&section=footer&animation=fadeIn" width="100%"/>
 
-**If SkillPass AI helped you, drop a ⭐ — it means a lot!**
-
-<br/>
-
-[![Star History](https://api.star-history.com/svg?repos=akankshad1712/skillpass-ai&type=Date)](https://star-history.com/#akankshad1712/skillpass-ai)
+**If SkillPass AI helped you, drop a ⭐ — it genuinely means a lot.**
 
 <br/>
 
-Made with ❤️ in Pune by **[Akanksha Deshmukh](https://github.com/akankshad1712)**
+Made with ❤️ in Pune &nbsp;·&nbsp; **[Akanksha Deshmukh](https://github.com/akankshad1712)** &nbsp;·&nbsp; [⭐ Star this repo](https://github.com/akankshad1712/skillpass-ai)
 
 </div>
